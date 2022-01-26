@@ -5,5 +5,5 @@
  ##
  
  <div align="center">
-<img src="https://github.com/souzaamanda/landing-page/files/7938353/amanda-souza-Algoritmo-40-Horas-Certificado-Curso-em-Video.pdf" width="700px" />
+<img src="https://user-images.githubusercontent.com/80546584/151089249-15d376d8-6a69-4403-a39c-949624dfa64e.png" width="700px" />
 </div>
