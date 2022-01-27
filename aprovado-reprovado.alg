@@ -18,5 +18,6 @@ senao
         escrevaL ("aluno em recuperação")
      senao
       escrevaL("aluno reprovado")
+      FimSe
 FimSe
 fimalgoritmo
